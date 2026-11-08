@@ -1,0 +1,18 @@
+{
+  "plugin.name": "Odstępnik Notcha MacBooka",
+  "plugin.description": "Wypełnia martwą strefę notcha i przesuwa ikony w widoczne miejsce",
+  "widget.tooltip": "Odstępnik Notcha — kliknij, aby dostosować szerokość",
+  "popup.title": "Odstępnik Notcha MacBooka",
+  "popup.subtitle": "Chroni ikony paska przed wycięciem ekranu MacBooka",
+  "popup.widthLabel": "Szerokość notcha: %1 px",
+  "popup.presetsHeader": "PROFIL URZĄDZENIA",
+  "popup.preset14": "14\" Pro (200px)",
+  "popup.preset16": "16\" Pro (230px)",
+  "popup.presetAir": "Air (180px)",
+  "popup.presetCompact": "Kompakt (140px)",
+  "popup.optionsHeader": "OPCJE",
+  "popup.blackPill": "Czarna pigułka notcha",
+  "popup.onlyOnNotch": "Tylko na ekranie laptopa (eDP)",
+  "popup.detectedScreen": "Ekran: %1 (%2×%3 @ %4x)",
+  "popup.statusProtected": "Aplikacje i ikony są bezpiecznie odsunięte od notcha"
+}

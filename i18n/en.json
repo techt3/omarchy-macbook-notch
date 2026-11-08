@@ -1,0 +1,18 @@
+{
+  "plugin.name": "MacBook Notch Spacer",
+  "plugin.description": "Fills the camera notch dead zone to keep bar apps and icons visible",
+  "widget.tooltip": "MacBook Notch Spacer — click to adjust width",
+  "popup.title": "MacBook Notch Spacer",
+  "popup.subtitle": "Protects status bar icons from MacBook display cutouts",
+  "popup.widthLabel": "Notch Width: %1 px",
+  "popup.presetsHeader": "DEVICE PRESETS",
+  "popup.preset14": "14\" Pro (200px)",
+  "popup.preset16": "16\" Pro (230px)",
+  "popup.presetAir": "Air (180px)",
+  "popup.presetCompact": "Compact (140px)",
+  "popup.optionsHeader": "OPTIONS",
+  "popup.blackPill": "Simulated Notch Pill",
+  "popup.onlyOnNotch": "Only on Laptop Screen (eDP)",
+  "popup.detectedScreen": "Screen: %1 (%2×%3 @ %4x)",
+  "popup.statusProtected": "Apps and icons are kept clear of the notch"
+}

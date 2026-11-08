@@ -1,0 +1,29 @@
+{
+  "$schema": "https://raw.githubusercontent.com/omarchy/omarchy/main/schemas/plugin.json",
+  "schemaVersion": 1,
+  "id": "wilk.macbook-notch",
+  "name": "MacBook Notch Spacer",
+  "version": "1.0.0",
+  "author": "techt3",
+  "license": "MIT",
+  "description": "Fills the camera notch dead zone on Apple MacBooks and keeps Omarchy status bar apps and icons fully visible.",
+  "repository": "https://github.com/techt3/omarchy-macbook-notch",
+  "kinds": [
+    "bar-widget"
+  ],
+  "entryPoints": {
+    "barWidget": "Widget.qml"
+  },
+  "barWidget": {
+    "displayName": "MacBook Notch Spacer",
+    "description": "Fills the space under the camera notch so bar widgets remain visible",
+    "category": "Layout",
+    "allowMultiple": false,
+    "defaultSection": "center",
+    "defaults": {
+      "width": 200,
+      "notchStyle": "spacer",
+      "onlyOnNotchScreen": true
+    }
+  }
+}
